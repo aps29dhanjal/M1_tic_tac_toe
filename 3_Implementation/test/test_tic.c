@@ -1,8 +1,9 @@
 #include "../unity/unity.h"
 #include "../unity/unity.c"
 #include "../unity/unity_internals.h"
-#include "../inc/draw.h"
-#include "../inc/win.h"
+
+#include "../src/win.c"
+#include"../inc/functions.h"
 #include<stdio.h>
 
 

@@ -2,9 +2,9 @@
 #include <conio.h>
 #include <windows.h>
 #include <stdlib.h>
-#include "inc/win.h"
-#include "inc/draw.h"
-
+#include"src/draw_board.c"
+#include"src/win.c"
+#include "inc/functions.h"
 
 char square[10] = {'o','1','2','3','4','5','6','7','8','9'};
 

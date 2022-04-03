@@ -1,3 +1,4 @@
+#include"../inc/functions.h"
 int checkWin(char square[10]){
 	if(square[1] == square[2] && square[2] == square[3])
 		return 1;
